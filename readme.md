@@ -4,12 +4,13 @@ This project builds a complete pipeline to collect, clean, analyze, and visualiz
 
 
 🧠 What It Does
+'''
 ✅ Scrapes app reviews from Google Play using google_play_scraper
 ✅ Cleans and normalizes multilingual review text
 ✅ Applies aspect-based sentiment analysis (ABSA) using PyABSA
 ✅ Groups aspects and sentiments to reveal key themes and trends
 ✅ Visualizes top aspects using seaborn
-
+'''
 
 ## 📁 Project Structure
 
