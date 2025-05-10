@@ -63,13 +63,6 @@ This project builds a complete pipeline to collect, clean, analyze, and visualiz
     )
 ```
 
-## 🎯 Use Case
-This project helps businesses:
-- Monitor app feedback in two languages
-- Understand what users like/dislike (features, UI, service)
-- Prioritize fixes or features based on real sentiment data
-
-
 Scraper model are based on 
 - https://github.com/JoMingyu/google-play-scraper
 
