@@ -13,19 +13,17 @@ This project builds a complete pipeline to collect, clean, analyze, and visualiz
 
 .
 ├── function/
-│   ├── Absa.py           # Aspect-based sentiment pipeline
-│   ├── ReadSave.py
-│   ├── ReadSave.py       # Class for reading/saving data
-
+│ ├── Absa.py # Aspect-based sentiment pipeline
+│ └── ReadSave.py # Class for reading/saving data
 ├── dictionary/
-│   └── __init__.py       # Contains word maps and groupings
-├── main_script.py        # Wrapper function and runner
-├── dataset/              # Raw scraped CSVs
-├── gt/                   # Google Translate
-├── prep_gt/              # Cleaned & processed reviews
-├── rs_pyabsa/            # ABSA results (CSV)
-├── rs_group/             # Grouped aspect result (CSV)
-├── rs_pict/              # Visual data (Seaborn saves)
+│ └── init.py # Contains word maps and groupings
+├── main_script.py # Wrapper function and runner
+├── dataset/ # Raw scraped CSVs
+├── gt/ # Google Translate
+├── prep_gt/ # Cleaned & processed reviews
+├── rs_pyabsa/ # ABSA results (CSV)
+├── rs_group/ # Grouped aspect result (CSV)
+├── rs_pict/ # Visual data (Seaborn saves)
 └── README.md
 
 
