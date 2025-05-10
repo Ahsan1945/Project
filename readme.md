@@ -32,10 +32,11 @@ This project builds a complete pipeline to collect, clean, analyze, and visualiz
 
 
 
-🚀 How to Run
+## 🚀 How to Run
+'''
 1. Install dependencies
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
+    pip install -r requirements.txt
+    python -m spacy download en_core_web_sm
 
 1. Run the scraper function with 
     names = list of application code
@@ -59,8 +60,9 @@ python -m spacy download en_core_web_sm
     name_data_absa='result_absa.csv',
     name_data_group='result_grouped.csv'
     )
+'''
 
-🎯 Use Case
+## 🎯 Use Case
 This project helps businesses:
 - Monitor app feedback in two languages
 - Understand what users like/dislike (features, UI, service)
