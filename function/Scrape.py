@@ -1,4 +1,3 @@
-#Never run this program this only for documentation
 from google_play_scraper import Sort, reviews_all
 import pandas as pd
 import sys
