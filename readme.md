@@ -3,7 +3,7 @@ This project builds a complete pipeline to collect, clean, analyze, and visualiz
 
 
 
-🧠 What It Does
+## 🧠 What It Does
 '''
 ✅ Scrapes app reviews from Google Play using google_play_scraper
 ✅ Cleans and normalizes multilingual review text
