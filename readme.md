@@ -34,7 +34,7 @@ This project builds a complete pipeline to collect, clean, analyze, and visualiz
 
 
 ## 🚀 How to Run
-'''
+```
 1. Install dependencies
     pip install -r requirements.txt
     python -m spacy download en_core_web_sm
@@ -61,7 +61,7 @@ This project builds a complete pipeline to collect, clean, analyze, and visualiz
     name_data_absa='result_absa.csv',
     name_data_group='result_grouped.csv'
     )
-'''
+```
 
 ## 🎯 Use Case
 This project helps businesses:
